@@ -1,6 +1,5 @@
 import java.util.*;
 
-
 class Simple{
     public static void main(String k[])
     {
