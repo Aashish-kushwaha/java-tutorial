@@ -1,0 +1,11 @@
+import java.util.*;
+class Ashu
+{
+	public static void main(String []k)
+	{
+		Scanner sc=new Scanner(System.in);
+		int a=sc.nextInt();
+		System.out.println(a);
+	System.out.println("aashish kushwaha");
+	}
+}
